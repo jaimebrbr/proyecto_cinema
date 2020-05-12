@@ -24,7 +24,7 @@
 .logo-img{
     width: 75px; 
 }
-
+/*El jumbotron va a continuacion del navbar*/
 .jumbotron{
     min-width: 100% !important;
     min-height: 550px;
